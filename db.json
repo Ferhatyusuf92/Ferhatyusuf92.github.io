@@ -1,0 +1,89 @@
+{
+  "categories": [
+    {
+      "name": "Electronic",
+      "description": "desc",
+      "id": "dd16"
+    },
+    {
+      "id": "c70d",
+      "name": "Garden",
+      "description": "Garden desc"
+    },
+    {
+      "id": "d193",
+      "name": "Home",
+      "description": "Home desc"
+    },
+    {
+      "id": "b74d",
+      "name": "Baby",
+      "description": "Baby desc"
+    },
+    {
+      "name": "Man",
+      "description": "desc man",
+      "id": "4759"
+    },
+    {
+      "id": "9a94",
+      "name": "adasdasd",
+      "description": "dsada"
+    },
+    {
+      "id": "4163",
+      "name": "dassd",
+      "description": "sadasdsadsad"
+    }
+  ],
+  "products": [
+    {
+      "name": "323",
+      "price": "32",
+      "description": "Comp desc",
+      "imageUrl": "",
+      "categoryId": "dd16",
+      "id": "678a"
+    },
+    {
+      "name": "Table",
+      "price": "200",
+      "description": "Table desc",
+      "imageUrl": "",
+      "categoryId": "d193",
+      "id": "3742"
+    },
+    {
+      "name": "Prima",
+      "price": "43",
+      "description": "prima desc",
+      "imageUrl": "",
+      "categoryId": "b74d",
+      "id": "06cb"
+    },
+    {
+      "name": "mont baby",
+      "price": "2334",
+      "description": "mon t desc bab",
+      "imageUrl": "",
+      "categoryId": "b74d",
+      "id": "d100"
+    },
+    {
+      "id": "e519",
+      "name": "xxx",
+      "price": "23",
+      "description": "yyy",
+      "imageUrl": "",
+      "categoryId": "c70d"
+    },
+    {
+      "id": "3c37",
+      "name": "qqq",
+      "price": "12",
+      "description": "qqqqq",
+      "imageUrl": "",
+      "categoryId": "d193"
+    }
+  ]
+}
